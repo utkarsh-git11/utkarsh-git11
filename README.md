@@ -15,6 +15,6 @@ Here are some ideas to get you started
 - 🧑‍🎓Graduated from Indian Institute of Information Technology Bhopal in 2025
 - 📜My Major is BE/B.Tech in Information Technology
 - 🌱 I’m currently learning Azure Data Factory
-- ✍️ My skills are Python, SQL, Azure Data Factory
+- ✍️ My skills are Python, SQL, Azure Data Factory, Azure Data Lake, Azure SQL, Power BI, Azure DevOps
 - 🤔 I’m looking for help with internships and job opportunities
 - 📫 How to reach me: utkarshbhaskar12@gmail.com
